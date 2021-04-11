@@ -1,0 +1,1 @@
+[0410/172723.425:ERROR:filesystem_win.cc(148)] DeleteFile c:\Users\Kiran Solanki\AppData\Roaming\Code\User\workspaceStorage\e152de05652bb227ab4e468758c1dfb4\ms-vscode.js-debug\.profile\Crashpad\reports\34ab4e1e-50cc-4cd8-99b9-7cd3d595b233.dmp: The process cannot access the file because it is being used by another process. (0x20)
